@@ -26,7 +26,7 @@ SECRET_KEY = 'l^gb05kl4(-indb_-9c9)w_bk7%m$$=^@o9a4#s_3uoqwj(0)#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['testserver', '127.0.0.1']
 
 
 # Application definition
