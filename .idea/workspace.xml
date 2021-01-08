@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e8dafe-1bd7-4a1d-a15c-fa98badf570d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backend_test_app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend_test/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend_test/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend_test_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend_test_app/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,8 +111,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backend_test_app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="162">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,6 +154,7 @@
         <option value="$PROJECT_DIR$/backend_test_app/serializers.py" />
         <option value="$PROJECT_DIR$/backend_test/urls.py" />
         <option value="$PROJECT_DIR$/backend_test_app/urls.py" />
+        <option value="$PROJECT_DIR$/backend_test_app/views.py" />
       </list>
     </option>
   </component>
@@ -240,21 +243,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610112016616</updated>
-      <workItem from="1610112018353" duration="5383000" />
+      <workItem from="1610112018353" duration="5797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5383000" />
+    <option name="totallyTimeSpent" value="5797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22913617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="manage.py@backend_test" visible="true" weight="0.31595576" />
+      <window_info active="true" anchor="bottom" id="manage.py@backend_test" visible="true" weight="0.34755135" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.63665086" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.35545024" />
@@ -373,8 +375,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backend_test_app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
