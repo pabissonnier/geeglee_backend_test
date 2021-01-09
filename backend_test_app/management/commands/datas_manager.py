@@ -6,6 +6,7 @@ from datetime import datetime, timedelta
 
 
 class DatasManager:
+    """ Insertion scripts for initial datas through Django Custom Commands"""
     def __init__(self):
         pass
 

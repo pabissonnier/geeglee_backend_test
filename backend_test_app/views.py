@@ -15,6 +15,7 @@ class CompanyViewSet(viewsets.ModelViewSet):
     serializer_class = CompanySerializer
 
     def create(self, request, *args, **kwargs):
+        """ Overriding create function to ensure small caps for entries """
         company_data = request.data
         licence_url = company_data['licence']
         res = urlopen(licence_url).read()
@@ -48,6 +49,7 @@ class CustomerViewSet(viewsets.ModelViewSet):
     serializer_class = CustomerSerializer
 
     def create(self, request, *args, **kwargs):
+        """ Overriding create function to ensure small caps for entries and format for email """
         customer_data = request.data
         company_url = customer_data['company']
         res = urlopen(company_url).read()
